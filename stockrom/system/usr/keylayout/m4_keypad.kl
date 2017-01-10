@@ -1,0 +1,53 @@
+# Copyright (c) 2011, Code Aurora Forum.
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+# http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+#
+
+# Function keys
+key 59    MENU
+key 60    HOME
+key 61    CALL
+key 62    BACK
+key 63    ENDCALL
+key 64    MEDIA_NEXT
+key 65    MEDIA_PLAY_PAUSE
+key 66    MEDIA_PREVIOUS
+key 67    MEDIA_STOP
+key 68    CAMERA
+key 87    POWER
+key 217   SEARCH
+key 110   MENU
+key 102   HOME
+key 158   BACK
+key 107   ENDCALL
+
+# Row 6
+key 464   MENU
+key 29    MENU
+key 56    MENU
+key 151   MENU
+
+# Volume keys
+key 115   VOLUME_UP
+key 114   VOLUME_DOWN
+
+# Numeric keypad
+key 522   STAR
+key 523   POUND
+key 355   DEL
+#L- Mapping
+key 139   MENU
+#SEND Key Mapping
+key 231   CALL
+# R+ Mapping
+key 142   HOME
